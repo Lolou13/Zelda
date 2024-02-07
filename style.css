@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mb--50 {
+    margin-bottom: -50px;
+}
+
+.bg-footer {
+    background-color: #0e2c1b;
+    color: white;
+}
+
+h1{
+    font-family: "Zelda";
+}
+
+.gold{
+    color: #D4AF37 !important;
+}
